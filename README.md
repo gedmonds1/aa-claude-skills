@@ -96,7 +96,7 @@ skills/
 ```
 
 The `SKILL.md` file contains:
-- A YAML frontmatter block with `name` and `description`
+- A YAML frontmatter block with `name`, `description`, and `license`
 - Step-by-step workflow instructions for Claude
 - Output format specifications
 - Critical rules and quality standards
@@ -119,7 +119,7 @@ Issues and pull requests welcome. If you adapt a skill for another institution o
 
 ## License
 
-MIT — free to use and adapt with attribution. See [LICENSE](LICENSE) for details.
+Apache License 2.0 — free to use and adapt with attribution. See [LICENSE](LICENSE) for the full text. A short summary: you may use, modify, and distribute these skills (including in commercial settings) provided you preserve the copyright notice and the LICENSE file, state any significant changes you make, and do not use the contributors' trademarks. The skills are provided "as is," without warranty.
 
 ---
 
