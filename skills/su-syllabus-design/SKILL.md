@@ -1,6 +1,7 @@
 ---
 name: su-syllabus-design
 description: Evidence-based guidance for designing and improving undergraduate syllabi at Syracuse University using instructional design principles, neuroscience insights, and inclusive teaching practices. When Claude needs to help faculty design new syllabi, review existing syllabi for student-centeredness, apply backward design principles, or ensure inclusive teaching practices are embedded in course documents.
+license: Apache-2.0
 metadata:
   version: 2.0
   author: Jerry Edmonds, Chief of Staff for Academic Affairs

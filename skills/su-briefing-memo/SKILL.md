@@ -1,6 +1,7 @@
 ---
 name: su-briefing-memo
 description: Generate chancellor-level briefing memos as formatted Word (.docx) files that exactly match the official Syracuse University Briefing Memo Template — including the Block S logo, Verdana font, SU navy MEMORANDUM heading, inline divider line, and correct bullet formatting. Use this skill whenever asked to produce a briefing memo, chancellor briefing, meeting brief, or any memo using the SU template. Also trigger when the user says "write a memo," "draft a briefing," "prepare a brief for the Chancellor," or provides To/From/Date/Subject content and asks for a formatted document. Even if the user just says "make a memo for the Chancellor's meeting with X" — use this skill. Do NOT attempt to build the memo from scratch using docx.js or any other code generator; always clone the real template file.
+license: Apache-2.0
 ---
 
 # SU Briefing Memo Skill

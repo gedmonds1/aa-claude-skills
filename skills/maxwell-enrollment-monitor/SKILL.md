@@ -11,6 +11,7 @@ description: >
   produce a pre-semester cancellation list, review Maxwell class enrollments before the semester
   starts, or flag courses that need dean's office attention. Even if the user says "check enrollments"
   or "which Maxwell courses are in trouble" — use this skill.
+license: Apache-2.0
 metadata:
   compatibility: requires xlsx skill for data ingestion; outputs feed maxwell-enrollment-tracker and maxwell-faculty-obligation-tracker
 ---

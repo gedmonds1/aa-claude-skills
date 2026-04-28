@@ -1,6 +1,7 @@
 ---
 name: prompt-engineering
 description: Comprehensive skill for improving and creating high-quality Claude prompts using evidence-based techniques. Current for Claude 4.x (Sonnet/Opus 4.6). Use whenever asked to improve, create, troubleshoot, or evaluate prompts — including diagnosing inconsistent outputs, updating legacy prompts with over-eager language, applying effort/thinking parameters, or designing agentic skill workflows. Even if the user just says "this prompt isn't working" or "help me write a prompt for X" — use this skill.
+license: Apache-2.0
 ---
 
 # Prompt Engineering Skill

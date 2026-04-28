@@ -1,6 +1,7 @@
 ---
 name: departmental-teaching-summary
 description: Analyze a spreadsheet of course enrollment data for an entire department or school and produce a structured teaching summary table broken down by faculty name, title, rank, course prefix, course name, enrollment, and credit hours — with subtotals by faculty title group and a data quality notes section. Use when asked to analyze departmental teaching data, summarize course loads across a unit, produce faculty roster teaching tables, or review staffing patterns for portfolio review or academic planning. Triggers on "departmental teaching," "school teaching summary," "faculty roster analysis," "course load by title," or "who is teaching what in [dept/school]." Use this skill — not faculty-teaching-analysis — whenever the analysis covers multiple faculty and the output is a single consolidated table, not individual reports.
+license: Apache-2.0
 metadata:
   version: "1.0"
   companion-skill: faculty-teaching-analysis

@@ -1,6 +1,7 @@
 ---
 name: senate-syllabus-review
 description: Systematic review of Syracuse University syllabi and course proposals for compliance with SCCI (Senate Committee on Curricula and Instruction) standards, Academic Affairs requirements, and federal regulations. Use when asked to review, evaluate, or validate Syracuse University course submissions, syllabi, proposals (new/revised/inactivated courses), or when checking compliance with SU curriculum standards, mandatory policy statements, or Senate approval requirements.
+license: Apache-2.0
 metadata:
   version: 3.0
   author: Syracuse University Academic Affairs

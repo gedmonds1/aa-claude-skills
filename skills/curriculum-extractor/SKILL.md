@@ -1,6 +1,7 @@
 ---
 name: curriculum-extractor
 description: Extract and analyze course information from Syracuse University course catalogs to build comprehensive tables for degree program analysis, curriculum mapping, and institutional research. Use when asked to extract curriculum data, map prerequisites, analyze degree requirements, or build course tables from SU catalog pages. Supports both undergraduate and graduate programs.
+license: Apache-2.0
 ---
 
 # Curriculum Extractor

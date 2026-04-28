@@ -11,6 +11,7 @@ description: >
   course has an approved exception, update the exceptions ledger, or surface exceptions
   alongside the enrollment monitor report. Even if the user says "the dean approved this
   one" or "add this exception" or "which courses have exceptions this semester" — use this skill.
+license: Apache-2.0
 metadata:
   compatibility: >
     Upstream: maxwell-enrollment-monitor (surfaces exception candidates flagged in monitor output).

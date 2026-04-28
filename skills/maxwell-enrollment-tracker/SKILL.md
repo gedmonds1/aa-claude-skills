@@ -1,6 +1,7 @@
 ---
 name: maxwell-enrollment-tracker
 description: Longitudinal compliance memory for the Maxwell School MMCE policy. Maintains four semester-spanning registers — faculty make-up obligation clocks, selected topics offering counts, required course under-enrollment streaks, and independent study banks — stored in maxwell-tracker.xlsx. Use when asked to log obligations, query a faculty member's make-up status, check selected topics offering history, flag consecutive under-enrollments, or generate an end-of-semester compliance report. Even if the user says "update the tracker" or "how many times has this course been offered" — use this skill.
+license: Apache-2.0
 metadata:
   compatibility: >
     Upstream: maxwell-enrollment-monitor (produces obligation flags and under-enrollment data

@@ -2,6 +2,7 @@
 name: assignment-conflict-detector
 description: >
   Detect and resolve dates where students face too many concurrent major graded events across courses in a department or program, then recommend minimal-disruption adjustments to distribute workload more evenly across the term. Use this skill whenever an instructor, department chair, or curriculum coordinator wants to analyze syllabus scheduling conflicts, check for assignment clustering, identify midterm or deadline pileups, review workload distribution across a course sequence, or reduce DFW risk from concurrent high-stakes deadlines. Trigger this skill for any request involving: comparing deadlines across multiple syllabi, scheduling fairness for students, exam conflict analysis, assignment calendar coordination, or workload balancing across a semester. Even if the user simply says "look at these syllabi" or "do our deadlines cluster?" — use this skill.
+license: Apache-2.0
 metadata:
   author: Jerry Edmonds, Syracuse University
   domain: curriculum coordination, student success, academic scheduling

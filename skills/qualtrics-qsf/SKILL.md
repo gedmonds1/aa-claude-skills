@@ -1,6 +1,7 @@
 ---
 name: qualtrics-qsf
 description: Generate Qualtrics Survey Files (QSF) in valid JSON format compatible with Syracuse University's Qualtrics tenant. Use when users request creating Qualtrics surveys, generating QSF files, or building survey instruments that need to be imported into Qualtrics. Supports Likert scale multiple choice questions and text entry questions.
+license: Apache-2.0
 ---
 
 # Qualtrics QSF Generator (Syracuse University)

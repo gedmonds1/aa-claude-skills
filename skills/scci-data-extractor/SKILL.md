@@ -1,6 +1,7 @@
 ---
 name: scci-data-extractor
 description: Extract and map curriculum data from Syracuse University SCCI (Senate Committee on Curricula and Instruction) course and program review documents into standardized Senate Review Summary spreadsheets. Use when asked to process SCCI review documents, populate curriculum tracking spreadsheets, extract proposal information from Senate review reports, or map curriculum data from Word documents to Excel tracking systems.
+license: Apache-2.0
 ---
 
 # SCCI Data Extractor

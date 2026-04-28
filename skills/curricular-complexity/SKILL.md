@@ -1,6 +1,7 @@
 ---
 name: curricular-complexity
 description: Analyze undergraduate curriculum structure and complexity to identify barriers to student progression and timely degree completion. Use when users request analysis of degree programs, prerequisite structures, bottleneck courses, program complexity scores, curriculum mapping, comparison to peer institutions, student success barriers, or curriculum reform recommendations. Particularly relevant for associate deans, curriculum committees, institutional research, and academic affairs administrators working on retention, graduation rates, and "4 and out" initiatives.
+license: Apache-2.0
 ---
 
 # Curricular Complexity Analysis

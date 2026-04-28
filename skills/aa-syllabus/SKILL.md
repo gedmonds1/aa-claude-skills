@@ -1,6 +1,7 @@
 ---
 name: aa-syllabus
 description: Create Syracuse University course syllabi following official Office of Academic Affairs requirements. Use when asked to create, generate, format, or review a Syracuse University syllabus, course template, or course outline. Handles mandatory institutional policy statements (academic integrity, AI policy, disability accommodations, discrimination/harassment, faith tradition observances) and optional sections (Turnitin, attendance, Blackboard LMS). Also use when faculty ask about AI policy options for syllabi, syllabus compliance, or required course policy language.
+license: Apache-2.0
 ---
 
 # Syracuse University Syllabus Generator

@@ -1,6 +1,7 @@
 ---
 name: scci-template
 description: Create pixel-perfect Syracuse University Senate Committee on Curricula and Instruction (SCCI) course proposal review documents. Use when asked to create SCCI review templates, course proposal evaluations, syllabus compliance reviews, or any document that must match the exact SCCI template specifications (fonts, colors, spacing, table structure, checkboxes). This skill ensures precise adherence to typography (Verdana 11pt/16pt), color palette (#E7E6E6 headers, #CCCCCC borders), table structure (2-column with specific widths), checkbox formatting (☐/☒ in Segoe UI Symbol), and all spacing/margin requirements.
+license: Apache-2.0
 ---
 
 # SCCI Template Generator

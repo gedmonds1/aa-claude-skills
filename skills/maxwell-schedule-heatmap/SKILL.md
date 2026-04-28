@@ -12,6 +12,7 @@ description: >
   a chair-ready scheduling overview, or explore when Maxwell courses meet. Even
   if the user just says "make a heat map of our schedule" or "show me the
   scheduling density" — use this skill.
+license: Apache-2.0
 ---
 
 # Maxwell Scheduling Heat Map
